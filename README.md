@@ -1,2 +1,9 @@
 # coepoll
-combine boost.contiuation with epoll
+test to combine boost.contiuation with epoll
+
+> simple tcp/udp server
+
+todo
+
+- connection pool
+- udp handle 
